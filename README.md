@@ -1,1 +1,1 @@
-![Remember Logo](/ReMember.png)
+![Remember Logo](https://jamespfu.com/img/ReMember.png | width=100)
