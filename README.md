@@ -1,1 +1,1 @@
-![Remember Logo](/images/ReMember.png)
+![Remember Logo](/ReMember.png)
